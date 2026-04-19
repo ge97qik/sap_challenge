@@ -77,9 +77,9 @@ The app opens automatically the browser. The knowledge base is built from Wikipe
 ---
 
 **Prompt 2**
-> What is SAP S/4HANA?
+> What is SAP?
 
-**Answer:** SAP S/4HANA is SAP's next-generation ERP suite built on the in-memory SAP HANA database. It was announced in 2015 and is designed to replace the older SAP ERP system with a simplified data model and real-time processing.
+**Answer:** SAP is a German multinational software company based in Walldorf, Baden-Württemberg, that is the world's largest vendor of enterprise software.
 
 ---
 
